@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+# GPU data generation, training and evaluation (src/wide_*.py, src/band_eval.py)
+torch
+# optional: accurate Bessel functions on the GPU (gpu_bie.py falls back to torch.special)
+# cupy-cuda12x
+# neural-operator baselines (src/run_sota_bench_colab.py)
+# neuraloperator
+# multiple-precision check of the Fock function (theory/fock_sector_check.py)
+# mpmath

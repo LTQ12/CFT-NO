@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+results/
+wide_data/
+bench_data/
+*.log
